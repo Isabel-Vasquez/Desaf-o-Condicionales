@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+	font-family: 'Roboto', sans-serif;
+}
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.select-container {
+	width: 60px;
+	height: 30px;
+	margin: 10px;
+}
+.button-container {
+	width: 100px;
+	height: 30px;
+}
+.parrafo1 {
+	margin: 20px;
+	color: white;
+	font-size: 30px;
+}
